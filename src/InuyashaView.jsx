@@ -10,7 +10,6 @@ import {
 import "./InuyashaView.css";
 import FotoEspecial from "./assets/perfil.jpg";
 
-// ?listo
 import img1 from "./assets/Inuyasha1.jpg";
 import img2 from "./assets/Inuyasha2.jpg";
 import img3 from "./assets/Inuyasha3.jpg";
@@ -18,9 +17,9 @@ import img4 from "./assets/Inuyasha4.jpg";
 import img5 from "./assets/Inuyasha5.jpg";
 import img6 from "./assets/Inuyasha6.jpg";
 import img7 from "./assets/Inuyasha7.jpg";
-import img8 from "./assets/Inuyasha8.jpg";
-import img9 from "./assets/Inuyasha9.jpg";
-import img10 from "./assets/Inuyasha10.jpg";
+import img8 from "./assets/inuyasha8.jpg";
+import img9 from "./assets/inuyasha9.jpg";
+import img10 from "./assets/inuyasha10.jpg";
 
 const frases = [
   "Aunque estemos en mundos diferentes... nuestros corazones estarán conectados. — Kagome",
