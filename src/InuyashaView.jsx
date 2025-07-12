@@ -10,6 +10,7 @@ import {
 import "./InuyashaView.css";
 import FotoEspecial from "./assets/perfil.jpg";
 
+// ?listo
 import img1 from "./assets/Inuyasha1.jpg";
 import img2 from "./assets/Inuyasha2.jpg";
 import img3 from "./assets/Inuyasha3.jpg";
