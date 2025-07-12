@@ -1,0 +1,20 @@
+.inuyasha-bg {
+  background: linear-gradient(to bottom, #fff0f5, #ffe4e1);
+  min-height: 100vh;
+}
+
+.galeria-img-wrapper {
+  cursor: pointer;
+  transition: transform 0.25s ease;
+}
+
+.galeria-img-wrapper:hover {
+  transform: scale(1.05);
+}
+
+.galeria-img {
+  height: 170px;
+  object-fit: cover;
+  width: 100%;
+  border-radius: 10px;
+}
